@@ -1,6 +1,6 @@
 The Agriculture Management System is an innovative solution designed to tackle the intricate challenges faced by the global agriculture sector. As an industry vital for the world economy, providing sustenance, textiles, and energy, agriculture often grapples with unpredictable weather, high input costs, limited market access, and low profitability. This open-source project introduces a cutting-edge digital platform that empowers farmers, agricultural companies, and laborers to interact directly, eliminating intermediaries and traditional barriers.
 
-Check the Report of this project (Report (2).pdf) to know more about it or click https://github.com/mohdfavaz/Agricultural-Management-System-ecommerce-site/blob/4f4962a4f27d8f5e5e1ef26c204b637a14cabffd/Report%20(2).pdf
+Check the Report of this project click here [Project Report](https://github.com/mohdfavaz/Agricultural-Management-System-ecommerce-site/blob/4f4962a4f27d8f5e5e1ef26c204b637a14cabffd/Report%20(2).pdf)
 
 ![Screenshot (4)-01](https://github.com/mohdfavaz/Agricultural-Management-System-ecommerce-site/assets/84845385/e68076a6-70ac-47ef-a358-e2fb7701a21a) (Home page)
 
